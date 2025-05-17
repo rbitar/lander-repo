@@ -10,6 +10,7 @@ export default function Home() {
   return (
     <div className="w-full">
       <Header />
+      
       <Hero 
         backgroundImage="https://frontend.co/api/photos?query=digital+landscape+blue+gradient&w=1920&h=1080&q=90"
         title="Elevate Your Digital Experience"
